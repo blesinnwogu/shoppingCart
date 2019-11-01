@@ -1,17 +1,3 @@
-const store =[{
-    Item: "Bag",
-    Price: 8000
-},
-{
-    Item: "Shoe",
-    Price: 5000
-},
-{
-    Item: "Watch",
-    Price: 3000
-}
-]
-
 let tableStore = document.getElementById("store");
 let tableCart = document.getElementById("cart");
 let cart = []
